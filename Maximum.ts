@@ -1,4 +1,4 @@
-let num: number[] = [10, 15, 40, 60, 90, 5];
+let num: number[] = [10, 15, 40, 60, 90, 9];
 
 let max = num[0];
 
