@@ -1,4 +1,4 @@
-let numbers: number = -6;
+let numbers: number = 6;
 
 if (numbers > 0) {
   console.log(numbers, "positive");
